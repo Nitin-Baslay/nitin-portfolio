@@ -1,0 +1,20 @@
+.qual {
+  border: 1px solid black;
+  width: 70vw;
+  margin: auto;
+  border-radius: 10px;
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  text-align: center;
+  box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.498);
+  margin-top: 25px;
+}
+.mdata{
+  border-bottom: 2px solid black;
+  border-radius: 30px;
+}
+@media screen and (min-width: 320px){
+  .qual{
+    width: 90vw;
+    margin: auto;
+  }
+  }
