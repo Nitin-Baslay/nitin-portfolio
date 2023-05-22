@@ -97,20 +97,6 @@ const Projects = () => {
           <h5 className="link">Link to Chatting App</h5>
         </a>
       </div>
-      <div className="project">
-        <h1 className="pmaster">Books Management App</h1>
-        <h3 className="psecond">Based on React JS</h3>
-        <h5 className="details">
-          This app is based on React & Redux library. In this app a user can
-          have a track of his/her books reading status for the predefined
-          bookset. It has three sections Currently Reading/ To-Read/ Already
-          Read. Also a user can search a particular book from the books
-          database.
-        </h5>
-        <a href="" target={"_blank"}>
-          <h5 className="link">Link to Books Management App</h5>
-        </a>
-      </div>
     </div>
   );
 };
