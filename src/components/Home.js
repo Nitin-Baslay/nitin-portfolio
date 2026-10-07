@@ -7,7 +7,7 @@ const Home = () => {
         <img src={pic} className="photo" />
         <div className="under">
           <h1 className="master">Nitin Kumar</h1>
-          <h3 className="desig"></h3>
+          <h3 className="desig">Product & Business Professional</h3>
         </div>
       </div>
       <div className="about">
