@@ -21,8 +21,7 @@ const Home = () => {
     Currently pursuing an MBA in HR, I bring a combination of business understanding, technology exposure, analytical thinking, and people-focused leadership. Whether I’m building a product, improving a process, managing people, or driving a project, my focus remains the same: understand the problem, collaborate with the right people, and create practical solutions that deliver results.
             <h3 />
     <h3 className="data">
-            Ready to apply my passion for coding to a talented engineering team
-            to develop quality solutions.
+            Welcome to my portfolio — a collection of my experience, projects, skills, and the work I’ve built along the way.
           </h3>
         </h3>
       </div>
