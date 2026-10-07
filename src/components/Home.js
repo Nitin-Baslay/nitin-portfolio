@@ -16,10 +16,10 @@ const Home = () => {
         </h3>
         <h3 className="data">
           My experience spans executive and stakeholder management, project coordination, e-commerce, technology development, business growth, and process optimization. At DCB Bank, I led cross-functional initiatives, managed stakeholder engagements, streamlined reporting, and supported a Finacle integration across 50+ branches. I have also gained hands-on experience in technology through React development and in business through managing an end-to-end e-commerce venture.
-          <h3 />
+    </h3>
     <h3 className="data">
     Currently pursuing an MBA in HR, I bring a combination of business understanding, technology exposure, analytical thinking, and people-focused leadership. Whether I’m building a product, improving a process, managing people, or driving a project, my focus remains the same: understand the problem, collaborate with the right people, and create practical solutions that deliver results.
-            <h3 />
+    </h3>
     <h3 className="data">
             Welcome to my portfolio — a collection of my experience, projects, skills, and the work I’ve built along the way.
           </h3>
