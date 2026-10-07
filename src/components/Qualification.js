@@ -2,6 +2,10 @@ import "./Qualification.css";
 const Qualification = () => {
   return (
     <div className="qual">
+     <div className="mdata">
+        <h1>Master Of Business Administration (MBA) - (2026-2028)</h1>
+        <h3>Indira Gandhi National Open University(IGNOU)</h3>
+      </div>
       <div className="mdata">
         <h1>Post Graduate Diploma in Banking & Finance (PGDBF) - 2018</h1>
         <h3>TKWs Institute of Banking & Finance</h3>
