@@ -15,12 +15,12 @@ const Home = () => {
          I’m a results-driven professional with experience across product and technology, business operations, banking, entrepreneurship, and people management. I enjoy solving problems, improving processes, and working with people and technology to turn ideas into meaningful outcomes.
         </h3>
         <h3 className="data">
-          I have developed many types of front-end based applications and I am
-          very passionate about building beautiful interfaces.
-          <h3 />I have ability to collaborate effectively with senior developers
-          and other co-workers. I enjoy working closely with team members to
-          ensure workloads are effectively managed.
-          <h3 className="data">
+          My experience spans executive and stakeholder management, project coordination, e-commerce, technology development, business growth, and process optimization. At DCB Bank, I led cross-functional initiatives, managed stakeholder engagements, streamlined reporting, and supported a Finacle integration across 50+ branches. I have also gained hands-on experience in technology through React development and in business through managing an end-to-end e-commerce venture.
+          <h3 />
+    <h3 className="data">
+    Currently pursuing an MBA in HR, I bring a combination of business understanding, technology exposure, analytical thinking, and people-focused leadership. Whether I’m building a product, improving a process, managing people, or driving a project, my focus remains the same: understand the problem, collaborate with the right people, and create practical solutions that deliver results.
+            <h3 />
+    <h3 className="data">
             Ready to apply my passion for coding to a talented engineering team
             to develop quality solutions.
           </h3>
