@@ -23,7 +23,6 @@ const Home = () => {
     <h3 className="data">
             Welcome to my portfolio — a collection of my experience, projects, skills, and the work I’ve built along the way.
           </h3>
-        </h3>
       </div>
     </div>
   );
