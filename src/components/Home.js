@@ -7,14 +7,12 @@ const Home = () => {
         <img src={pic} className="photo" />
         <div className="under">
           <h1 className="master">Nitin Kumar</h1>
-          <h3 className="desig">Frontend Developer</h3>
+          <h3 className="desig"></h3>
         </div>
       </div>
       <div className="about">
         <h3 className="data">
-          I'm a front-end developer based in New Delhi. With a passion for both
-          personal growth and for software development, I joined a bootcamp
-          course where I have learn't HTML, CSS, JAVASCRIPT, REACT JS & REDUX.
+         I’m a results-driven professional with experience across product and technology, business operations, banking, entrepreneurship, and people management. I enjoy solving problems, improving processes, and working with people and technology to turn ideas into meaningful outcomes.
         </h3>
         <h3 className="data">
           I have developed many types of front-end based applications and I am
