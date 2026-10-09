@@ -5,9 +5,9 @@ const Contact = () => {
     <div className="cMaster">
       <div className="contact">
         <h1>Email Id:</h1>
-        <p>nitinbansal481@gmail.com</p>
+        <p>knitin2032@gmail.com</p>
         <h1>Phone Number:</h1>
-        <p>9873753872/ 9643539344</p>
+        <p>9643539344 / 9873753872</p>
         <h1>Location:</h1>
         <p>New Delhi, INDIA</p>
         <h1>Github Profile:</h1>
